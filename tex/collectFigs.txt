@@ -1,0 +1,1 @@
+grep includegraphics percept-cgi2005.tex | dbracket.pl | replicate.pl release
